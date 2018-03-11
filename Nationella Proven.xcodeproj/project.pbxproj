@@ -13,10 +13,11 @@
 		C2253BB420542C4600C174AE /* Nationella_Prov.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C2253BB220542C4600C174AE /* Nationella_Prov.xcdatamodeld */; };
 		C2253BB620542C4600C174AE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2253BB520542C4600C174AE /* Assets.xcassets */; };
 		C2253BB920542C4600C174AE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2253BB720542C4600C174AE /* LaunchScreen.storyboard */; };
+		C2783F362054C32500C5B9F6 /* Bolonewt_Win-TT in Resources */ = {isa = PBXBuildFile; fileRef = C2783F352054C32500C5B9F6 /* Bolonewt_Win-TT */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		C2253BA820542C4600C174AE /* Nationella Prov.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Nationella Prov.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C2253BA820542C4600C174AE /* Nationella Proven.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Nationella Proven.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2253BAB20542C4600C174AE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C2253BAD20542C4600C174AE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		C2253BB020542C4600C174AE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -24,6 +25,7 @@
 		C2253BB520542C4600C174AE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C2253BB820542C4600C174AE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C2253BBA20542C4600C174AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C2783F352054C32500C5B9F6 /* Bolonewt_Win-TT */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Bolonewt_Win-TT"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,7 +50,7 @@
 		C2253BA920542C4600C174AE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C2253BA820542C4600C174AE /* Nationella Prov.app */,
+				C2253BA820542C4600C174AE /* Nationella Proven.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -56,6 +58,7 @@
 		C2253BAA20542C4600C174AE /* Nationella Prov */ = {
 			isa = PBXGroup;
 			children = (
+				C2783F352054C32500C5B9F6 /* Bolonewt_Win-TT */,
 				C2253BAB20542C4600C174AE /* AppDelegate.swift */,
 				C2253BAD20542C4600C174AE /* ViewController.swift */,
 				C2253BAF20542C4600C174AE /* Main.storyboard */,
@@ -70,9 +73,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C2253BA720542C4600C174AE /* Nationella Prov */ = {
+		C2253BA720542C4600C174AE /* Nationella Proven */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C2253BBD20542C4600C174AE /* Build configuration list for PBXNativeTarget "Nationella Prov" */;
+			buildConfigurationList = C2253BBD20542C4600C174AE /* Build configuration list for PBXNativeTarget "Nationella Proven" */;
 			buildPhases = (
 				C2253BA420542C4600C174AE /* Sources */,
 				C2253BA520542C4600C174AE /* Frameworks */,
@@ -82,9 +85,9 @@
 			);
 			dependencies = (
 			);
-			name = "Nationella Prov";
+			name = "Nationella Proven";
 			productName = "Nationella Prov";
-			productReference = C2253BA820542C4600C174AE /* Nationella Prov.app */;
+			productReference = C2253BA820542C4600C174AE /* Nationella Proven.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -103,7 +106,7 @@
 					};
 				};
 			};
-			buildConfigurationList = C2253BA320542C4500C174AE /* Build configuration list for PBXProject "Nationella Prov" */;
+			buildConfigurationList = C2253BA320542C4500C174AE /* Build configuration list for PBXProject "Nationella Proven" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -116,7 +119,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C2253BA720542C4600C174AE /* Nationella Prov */,
+				C2253BA720542C4600C174AE /* Nationella Proven */,
 			);
 		};
 /* End PBXProject section */
@@ -129,6 +132,7 @@
 				C2253BB920542C4600C174AE /* LaunchScreen.storyboard in Resources */,
 				C2253BB620542C4600C174AE /* Assets.xcassets in Resources */,
 				C2253BB120542C4600C174AE /* Main.storyboard in Resources */,
+				C2783F362054C32500C5B9F6 /* Bolonewt_Win-TT in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -307,7 +311,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C2253BA320542C4500C174AE /* Build configuration list for PBXProject "Nationella Prov" */ = {
+		C2253BA320542C4500C174AE /* Build configuration list for PBXProject "Nationella Proven" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C2253BBB20542C4600C174AE /* Debug */,
@@ -316,7 +320,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C2253BBD20542C4600C174AE /* Build configuration list for PBXNativeTarget "Nationella Prov" */ = {
+		C2253BBD20542C4600C174AE /* Build configuration list for PBXNativeTarget "Nationella Proven" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C2253BBE20542C4600C174AE /* Debug */,
